@@ -3,11 +3,11 @@
   "description": "",
   "main": "",
   "authors": [
-    "Cade Nichols <cade@cadenichols.com>"
+    "Gurjot Singh & Clark Ozanne"
   ],
   "license": "MIT",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/superman7117/dating-app",
   "ignore": [
     "**/.*",
     "node_modules",
